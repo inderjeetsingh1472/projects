@@ -1,0 +1,7 @@
+*inder*inder
+*cd "/home/inderjeet/project/" && g++ login_page.c++ -o login_page && "/home/inderjeet/project/"login_page*cd "/home/inderjeet/project/" && g++ login_page.c++ -o login_page && "/home/inderjeet/project/"login_page
+**cd "/home/inderjeet/project/" && g++ login_page.c++ -o login_page && "/home/inderjeet/project/"login_page
+inder@1472*inderjeet*1472
+jassi@1472*jassi*14722
+inderjeet singh*inderjeetsinghsingh133@gmail.com*inder@1472
+prabh*prabh@gmail.com*prabh12
